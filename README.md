@@ -35,6 +35,6 @@
 
 <a href = "https://www.linkedin.com/in/amar-jyoti-patra-28a610207/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
  * Mail me on amarjyotipatra511@gmail.com
-
+    <button href="https://amarjyotipatra-portfolio.netlify.app">Connect With Me</button>
 </p>
 
