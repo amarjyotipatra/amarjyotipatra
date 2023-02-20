@@ -19,8 +19,8 @@
      <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48px" height="48px"/>
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40px" height="40px"/> 
-    <img src="https://miro.medium.com/max/1400/1*goSuHxAHqRR8alv_h_3nCw.png" alt="Vue JS" width="40px" height="40px" />
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStNKBRyobrRboJL_5FZpTMT06GDQuxzRonnEEGbm6mFw&s" alt="Postgres sql" width="40px" height="40px" />
+    <img src="https://masteringjs.io/assets/images/vue/vue-transparent.png" alt="Vue JS" width="40px" height="40px" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" alt="Postgres sql" width="40px" height="40px" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45px" height="45px"/> 
    <img src="https://img.icons8.com/color/48/000000/git.png"/> 
   
