@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm  Amar Jyoti Patra</h1>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m experienced in **MERN Stack**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **Java, JavaScript**
 
 - 📫 How to reach me **amarjyotipatra511@gmail.com**
 
